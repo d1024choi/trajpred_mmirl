@@ -6,7 +6,7 @@ All the codes were developed on Ubuntu 16.04 with Python 3.5 and Tensorflow 1.10
 
 ## Train New Models
 
-To train the network from scratch, run the followings. The parameters of the trained networks will be stored at the folder ***saved_1_0***.
+To train the network from scratch, run the followings. The parameters of the trained networks will be stored at the folder ***save***.
 ```sh
 $ python kitti_train.py
 ```
