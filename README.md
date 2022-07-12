@@ -1,4 +1,4 @@
-# Official implementation codes for the paper "Future trajectory prediction via RNN and maximum margin inverse reinforcement learning, ICMLA, 2018".
+# The official implementation of "Future trajectory prediction via RNN and maximum margin inverse reinforcement learning" presented at ICMLA 2018.
 
 
 ## Setup
